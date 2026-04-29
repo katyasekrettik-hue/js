@@ -1,37 +1,34 @@
 // Task 1.
-
-
+    console.log('Katya')
 // Task 2.
-
-
-console.log('напишіть номер місяця тут');
-
+console.log('89/A');
+console.log
 
 
 // Task 3.
-
-console.log('пишемо тут');
-
-
+<script>
+console.log('Ласкаво '+'запрошуємо '+' на навчання');
+<skript>
 // Task 4.
-
-
-
-
+<script>
+   alert(2019);
+</script>
 // Task 5.
-
+<script>
+    console.log(2023 – 200);
+</script>
 
 
 // Task 6.
-
-
 
 // Task 7.
 
 
 
 // Task 8.
+<div id="out-8"></div>
 
+document.querySelector("out-8").
 
 // Task 9.
 
